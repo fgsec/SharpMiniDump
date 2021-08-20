@@ -8,11 +8,6 @@ A C# port using pinvoke and some magic to do your nasty job.
 
 ![example](example.PNG)
 
-Usage
-```
-SharpMiniDump.exe "c:\temp"
-```
-
 ## OpSec Considerations
 
 - It uses PInvoke, feel free to update it with DInvoke for a more stealthy approach.
